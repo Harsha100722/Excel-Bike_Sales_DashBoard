@@ -33,6 +33,7 @@ The main objective of this project is to:
 ---
 
 ## 📂 Project Structure
+```
 Excel-Data-Analysis-Dashboard/
 │
 ├── Dataset/
@@ -43,7 +44,7 @@ Excel-Data-Analysis-Dashboard/
 │
 ├── Dashboard/
 │ └── Excel_Dashboard.xlsx
-
+```
 
 ---
 
