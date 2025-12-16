@@ -111,7 +111,7 @@ Through this project, I gained hands-on experience in:
 ---
 
 ## 👤 Author
-**Name:** *Your Name Here*  
+**Name:** *Aadi Harsha Vardhan*  
 **Role:** Aspiring Data Analyst  
 **Skills:** Excel, SQL, Data Analysis, Dashboards  
 
