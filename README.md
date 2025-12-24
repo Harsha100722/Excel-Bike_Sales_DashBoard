@@ -74,8 +74,6 @@ Key analysis performed includes:
 ## 📊 Dashboard Features
 The Excel dashboard includes:
 - Interactive charts
-- KPI cards
-- Dynamic slicers
 - Filters for quick insights
 - Visual comparison of metrics
 - Clean and user-friendly layout
@@ -105,7 +103,7 @@ Through this project, I gained hands-on experience in:
 ## 🚀 How to Use This Project
 1. Download the Excel files
 2. Open the dashboard file
-3. Use slicers and filters to explore insights
+3. Use filters to explore insights
 4. Review cleaned data and analysis sheets
 
 ---
